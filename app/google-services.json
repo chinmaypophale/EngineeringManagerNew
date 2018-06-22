@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "902374464005",
+    "firebase_url": "https://engineering-manager-new.firebaseio.com",
+    "project_id": "engineering-manager-new",
+    "storage_bucket": "engineering-manager-new.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902374464005:android:eb930d53c72526e5",
+        "android_client_info": {
+          "package_name": "com.dexterlabs.engineeringmanagernew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902374464005-ofiq1raq8audcdjh74cmtv1oefs9i50p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dexterlabs.engineeringmanagernew",
+            "certificate_hash": "5bbc067cde0408b1e8b05809466bc9526bc2a3f1"
+          }
+        },
+        {
+          "client_id": "902374464005-l86r44kvh1vs0tv7j60a4hqcqjk315if.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvx2bXw2Atnj4wCWqGLPnaMuq9RIZWBZc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902374464005-l86r44kvh1vs0tv7j60a4hqcqjk315if.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -32,4 +32,15 @@ dependencies {
     implementation 'com.felipecsl:gifimageview:2.2.0'
     implementation 'commons-io:commons-io:2.4'
 
+    //to implement firebase
+    implementation 'com.google.firebase:firebase-core:16.0.0'
+
+    //to implement notifications
+    implementation 'com.google.firebase:firebase-messaging:17.0.0'
+
+
+
+
 }
+
+apply plugin: 'com.google.gms.google-services'
